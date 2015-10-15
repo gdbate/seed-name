@@ -1,0 +1,35 @@
+{
+  "name": "seed-name",
+  "version": "0.5.3",
+	"description": "A simple name randomizer for seeding databases (or whatever you want).",
+	"homepage": "https://github.com/gdbate/seed-name",
+	"author": "Greg Bate <gdbate@gmail.com> (https://github.com/gdbate)",
+	"keywords": [
+		"node",
+		"npm",
+		"seed",
+		"name",
+		"first",
+		"last",
+		"male",
+		"female",
+		"random",
+		"randomizer"
+	],
+	"contributors": [
+		"Greg Bate <gdbate@gmail.com> (https://github.com/gdbate)"
+	],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gdbate/seed-name.git"
+  },
+  "bugs": {
+    "mail": "gdbate@gmail.com",
+    "url": "http://github.com/gdbate/seed-name/issues"
+  },
+	"license": "MIT",
+  "dependencies": {
+    "mysql": "~2.9.0",
+    "q": "~1.4.1"
+  }
+}
